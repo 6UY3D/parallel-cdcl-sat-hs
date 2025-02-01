@@ -2,9 +2,7 @@
 
 Welcome to **parallel-cdcl-sat-hs**, a **Conflict-Driven Clause Learning (CDCL)** based SAT solver written in **Haskell** with **parallel** search capabilities. This project aims to combine cutting-edge SAT solving techniques with Haskell’s robust concurrency model to deliver a highly efficient solver, showcasing the power of functional programming for advanced algorithmic challenges.
 
-By leveraging multiple cores and sharing learned clauses among concurrent threads, **parallel-cdcl-sat-hs** aims to compete with and potentially outperform established C++ solvers like **Z3** or **MiniSat** in certain scenarios. 
-
-> **Note**: Building a parallel SAT solver in Haskell that can beat top-tier C++ solvers is extremely ambitious. However, the unique design, thorough documentation, and demonstration of concurrent functional programming are intended to highlight both your engineering and research skills—ideally leading to **high-paying job offers** in fields like formal verification, software security, and functional programming.
+By leveraging multiple cores and sharing learned clauses among concurrent threads, **parallel-cdcl-sat-hs** aims to compete with and potentially outperform established C++ solvers like **Z3** or **MiniSat** in certain scenarios.
 
 ---
 
