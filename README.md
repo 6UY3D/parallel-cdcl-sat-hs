@@ -59,7 +59,7 @@ Modern SAT solvers power a wide range of applications, from **formal verificatio
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/parallel-cdcl-sat-hs.git
+   git clone https://github.com/6UY3D/parallel-cdcl-sat-hs.git
    cd parallel-cdcl-sat-hs
    ```
    
